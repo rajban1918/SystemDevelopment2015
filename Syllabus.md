@@ -94,10 +94,11 @@ April 21st
 Instructor: Joseph
 #### Topics
 
-- "advanced OO"
-  - \__new__(), super()
-  - type, metaclasses
-  - Debugging (print, logging, pdb/ipdb, winpdb)
+- Logging
+- Debugging
+  - print
+  - pdb/ipdb
+  - winpdb
 
 ### Week 4
 April 28th
@@ -114,8 +115,11 @@ Instructor: Chris
 
 #### Topics
 
-- numpy, scipy, pandas, matplotlib
-- ipython/notebook
+- SciPy
+  - ipython notebook (Jupyter)
+  - numpy
+  - matplotlib
+  - pandas
 
 
 ### Week 6
@@ -124,19 +128,21 @@ Instructor: Chris
 
 #### Topics
 
+- "advanced OO"
+  - \__new__(), super()
+  - type, metaclasses
+
 - datetime, time, pytz
-- functools
-- itertools
-- Beautiful idiomatic code
+
 
 ### Week 7
 May 19th
 Instructor: Joseph
 #### Topics
 
-- serialization review / XML
 - profiling
 - multi-threading/processing
+- serialization review / XML
 
 
 ### Week 8
